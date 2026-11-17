@@ -1,0 +1,17 @@
+[
+  {
+    "id": "EST-002",
+    "nombre": "En Proceso",
+    "descripcion": "El proceso está en ejecución",
+    "categoria": "progreso",
+    "activo": true
+  },
+  
+  {
+    "id": "EST-003",
+    "nombre": "Entregado",
+    "descripcion": "El proceso Finalizado",
+    "categoria": "progreso",
+    "activo": true
+  }
+]
